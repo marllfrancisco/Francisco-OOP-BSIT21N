@@ -24,15 +24,15 @@ Which is synced in my local Java Eclipse IDE, then select the source folder name
 - src
 
 Inside this folder are:
-- midterms
-- finals 
-
-And each of these folders is further subdivided into systematic categories:
 - activities
 - exam
 - lessons
 - quizzes
 - seatworks
+
+And each of these folders is further subdivided into systematic categories:
+- midterms
+- finals *(not included yet)*
 
 Required PDFs, documents, and screenshots are also included in this repository, which are located in:
 - docs
