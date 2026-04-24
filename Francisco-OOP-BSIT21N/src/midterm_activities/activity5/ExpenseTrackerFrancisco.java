@@ -1,5 +1,5 @@
 // personal package
-package midterm_activities;
+package midterm_activities.activity5;
 
 // necessary imports
 import java.util.Scanner;

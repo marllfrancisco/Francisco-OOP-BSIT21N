@@ -1,6 +1,6 @@
 
 // my package
-package midterm_activities;
+package midterm_activities.activity4;
 
 // imports needed
 import java.util.Scanner;

@@ -2,7 +2,7 @@
 // Midterm Activity # 3 - ATM w/ Transaction Counter
 
 //my package
-package midterm_activities;
+package midterm_activities.activity3;
 
 // necessary imports -------------------------------------------------------
 import java.io.Console;
