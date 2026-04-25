@@ -1,14 +1,14 @@
 # E-Portfolio - Home Page
-**Full Name:**
+👨‍💼 **Full Name:**
 Marl Louie Tagle Francisco
 
-**Course:**
+📖 **Course:**
 Object-Oriented Programming
 
-**School:**
+🏫 **School:**
 Polytechnic University of the Philippines - Sta. Mesa 
 
-**Section:**
+🖥️ **Section:**
 BSIT 2-1N
 
 
@@ -18,33 +18,35 @@ This e-portfolio presents my Midterm Project in Object-Oriented Programming usin
 ---
 ## How to navigate?
 To explore my accomplished programs in Object-Oriented Programming, you must traverse this project folder named:
-- Francisco-OOP-BSIT21N
+
+📂 Francisco-OOP-BSIT21N
   
 Which is synced in my local Java Eclipse IDE, then select the source folder named:
-- src
+
+📂 src
 
 Inside this folder are:
-- activities
-- exam
-- lessons
-- quizzes
-- seatworks
+
+📂 activities 📂 assignments 📂 exam 📂 lessons 📂 quizzes 📂 seatworks
 
 And each of these folders is further subdivided into systematic categories:
 - midterms
 - finals *(not included yet)*
 
-Required PDFs, documents, and screenshots are also included in this repository, which are located in:
-- docs
-- screenshots
+Additionally, screenshots are organized in this folder:
+
+📂 img
 
 ---
 
 ## Contact:
-**Email:**
+✉️ **Email:**
 marllouie.t.francisco@gmail.com
 
-**LinkedIn:**
+✉️ **University Webmail:**
+marllouietfrancisco.iskolarngbayan@pup.edu.ph
+
+🌐 **LinkedIn:**
 www.linkedin.com/in/marl-louie-francisco
 
 ---
