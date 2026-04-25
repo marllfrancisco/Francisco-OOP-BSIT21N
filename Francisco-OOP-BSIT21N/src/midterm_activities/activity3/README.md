@@ -20,27 +20,27 @@ multiple layers of verification: less than zero, more than 2000, and less that e
 correct input for the main menu. 
 
 ## Output + Explanation
-![locked](img/Picture1.jpg)
+![locked](img/Picture1.png)
 
 Three incorrect PIN inputs at the login interface lead to locking of the account.
 
-![success](img/Picture2.jpg)
+![success](img/Picture2.png)
 
 Correct PIN leads to the main menu, checking balance with 5000 initially. Outside the range of main menu options is invalid. In depositing, negative values are not allowed.
 
-![depositwithdraw](img/Picture3.jpg)
+![depositwithdraw](img/Picture3.png)
 
 Successful deposit, update of balance. Negative values are also not allowed in withdrawal.
 
-![exceedmax](img/Picture4.jpg)
+![exceedmax](img/Picture4.png)
 
 Adheres to the 2000 max withdrawal rule, successful withdrawal, and checking balance.
 
-![insufficient](img/Picture5.jpg)
+![insufficient](img/Picture5.png)
 
 As 1500 is the remaining balance, withdraw amount that exceed it are not permitted.
 
-![exit](img/Picture6.jpg)
+![exit](img/Picture6.png)
 
 Finally, terminating the program by choosing 4.
 
