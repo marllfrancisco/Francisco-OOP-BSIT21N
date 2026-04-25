@@ -8,6 +8,8 @@ Mar 03, 2026
 📄 **Submitted Work:**
 [View PDF](BSIT2-1N_Francisco_MarlLouie_CodeAnalysisActivity%231.pdf)
 
+⌨️ **Source Code:**
+[View Code](StudentObjects.java)
 
 ## About
 Code Analysis Activity # 1 - Variables provides a code in JPG format about objects. Then requires identifying its variables in a table, and explaining every instance variable. Lastly is to provide the output of the program.
