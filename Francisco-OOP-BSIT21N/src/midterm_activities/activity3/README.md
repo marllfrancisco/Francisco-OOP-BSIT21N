@@ -12,7 +12,7 @@ Mar 27, 2026
 Activity # 3 is about developing an ATM System program that accepts pin for access, and allows users to check, deposit, and withdraw balance. 
 
 ## Source Code + Explanation
-#### ![SecureATMSystemFrancisco.java](SecureATMSystemFrancisco.java)
+#### [SecureATMSystemFrancisco.java](SecureATMSystemFrancisco.java)
 As the pin is predefined, the login page syntax is all under while loops. User input is verified with nested if statements: verifies pin, but after 3 attempts, the account is locked, and the
 program is terminated. After logging in, the main menu is under a do-while loop to ensure iteration after selection of options. Choices are determined in switch-case statements. 
 Case 1 checks the balance, case 2 accepts the deposit amount, then undergoes if statements to not accept negative values. Case 3 requests a withdrawal amount, then next are nested-if statements for
