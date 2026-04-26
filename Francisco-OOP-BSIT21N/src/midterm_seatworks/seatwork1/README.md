@@ -1,13 +1,13 @@
 # Object-Oriented Programming - Seatwork # 1
-**Date:** 
-Feb 28, 2026
+📆 **Date:** 
+February 28, 2026
 
-**Score:**
+✔️ **Score:**
 30/30
 
 ## About
 This is about the implementation of bitwise and logical operators in Java. To provide the result in the print statements by analyzing expressions that utilize bitwise and logical operators.
-Also to perform simple arithmetic between variables.
+Also, to perform simple arithmetic between variables.
 
 ![seatwork1](IMG_seatwork1.jpg)
 
