@@ -1,12 +1,12 @@
 # Object-Oriented Programming - Midterm Examination
 
-**Where:**
+🏫 **Where:**
 Polytechnic University of the Philippines - Sta. Mesa
 
-**Date:** 
+📆 **Date:** 
 April 22, 2026
 
-**Score:**
+✔️ **Score:**
 *not announced yet*
 
 
