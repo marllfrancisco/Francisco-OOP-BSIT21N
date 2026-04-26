@@ -1,8 +1,8 @@
 # Object-Oriented Programming - Seatwork # 2
-**Date:** 
+📆 **Date:** 
 March 2026
 
-**Score:**
+✔️ **Score:**
 *not announced yet*
 
 ## About
