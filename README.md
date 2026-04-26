@@ -49,4 +49,7 @@ marllouietfrancisco.iskolarngbayan@pup.edu.ph
 🌐 **LinkedIn:**
 www.linkedin.com/in/marl-louie-francisco
 
+📱**Phone Number:**
+63+9926643181
+
 ---
